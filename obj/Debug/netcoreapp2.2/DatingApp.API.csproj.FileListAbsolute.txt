@@ -1,0 +1,14 @@
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
