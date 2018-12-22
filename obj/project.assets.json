@@ -12426,11 +12426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
+      "projectUniqueName": "/Users/arturofiliovilla/Documents/C_sharp/projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
+      "projectPath": "/Users/arturofiliovilla/Documents/C_sharp/projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
       "packagesPath": "/Users/arturofiliovilla/.nuget/packages/",
-      "outputPath": "/Users/arturofiliovilla/Documents/C#/projects/DatingApp/DatingApp.API/obj/",
+      "outputPath": "/Users/arturofiliovilla/Documents/C_sharp/projects/DatingApp/DatingApp.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
