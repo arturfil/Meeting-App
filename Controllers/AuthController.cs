@@ -66,7 +66,8 @@ namespace DatingApp.API.Controllers
       var tokenDescriptor = new SecurityTokenDescriptor
       {
           Subject = new ClaimsIdentity(claims),
-          Expires = DateTime.Now.AddDays(1)
+          Expires = DateTime.Now.AddDays(1),
+          SigningCredentials = creds
       };
 
       var tokenHandler = new JwtSecurityTokenHandler(); 
